@@ -1,4 +1,4 @@
-# HTML & CSS Practice Project
+# Single-Page-CV
 
 A simple project to practice building web pages with HTML while mastering the Git and GitHub workflow.
 
@@ -14,13 +14,11 @@ This project strictly follows a `dev` -> `main` branching model:
 
 ## 💻 Technologies Used
 * HTML5
-* (Add CSS3 here when you start using it)
-* (Add JavaScript here when you start using it)
+* CSS
 * Git & GitHub
 
 ## Key Features
-* (Example: A semantic HTML structure for a personal portfolio)
-* (Example: A multi-page layout for "Home" and "About")
+* A semantic HTML structure for a personal portfolio
 
 ## How to View This Project
 1.  Clone this repository to your local machine:
