@@ -26,3 +26,6 @@ This project strictly follows a `dev` -> `main` branching model:
     git clone [paste your repo's HTTPS or SSH URL here]
     ```
 2.  Open the `index.html` file in your preferred web browser.
+
+## Project URL
+https://roadmap.sh/projects/single-page-cv
